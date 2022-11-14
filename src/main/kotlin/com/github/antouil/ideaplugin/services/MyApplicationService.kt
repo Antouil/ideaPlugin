@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.antouil.ideaplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.antouil.ideaplugin.MyBundle
 
 class MyApplicationService {
 
